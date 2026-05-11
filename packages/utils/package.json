@@ -4,6 +4,9 @@
   "description": "andy12345-cli-dev utils",
   "homepage": "",
   "license": "ISC",
+  "publishConfig": {
+    "access": "public"
+  },
   "author": "innervoice <innervoice@qq.com>",
   "main": "lib/utils.js",
   "directories": {
@@ -16,5 +19,5 @@
   "scripts": {
     "test": "node ./__tests__/utils.test.js"
   },
-  "gitHead": "34ec2081f808e01205ee3dd2c8823ab88daca09c"
+  "gitHead": "a742222eabd1199b260e4fc438c026b9dcb425cf"
 }
