@@ -18,5 +18,6 @@
   },
   "dependencies": {
     "@andy12345-cli-dev/utils": "^1.0.1"
-  }
+  },
+  "gitHead": "5e5324798baef464a6337d39012f83f7461d5cf0"
 }
