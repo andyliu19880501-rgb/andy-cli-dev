@@ -1,0 +1,22 @@
+{
+  "name": "@andy12345-cli-dev/core",
+  "version": "1.0.0",
+  "description": "andy12345-cli-dev core",
+  "homepage": "",
+  "license": "ISC",
+  "author": "innervoice <innervoice@qq.com>",
+  "main": "lib/core.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "node ./__tests__/core.test.js"
+  },
+  "dependencies": {
+    "@andy12345-cli-dev/utils": "^1.0.0"
+  }
+}
