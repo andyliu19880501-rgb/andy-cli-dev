@@ -1,6 +1,6 @@
 {
   "name": "@andy12345-cli-dev/core",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "andy12345-cli-dev core",
   "homepage": "",
   "license": "ISC",
@@ -17,6 +17,6 @@
     "test": "node ./__tests__/core.test.js"
   },
   "dependencies": {
-    "@andy12345-cli-dev/utils": "^1.0.0"
+    "@andy12345-cli-dev/utils": "^1.0.1"
   }
 }
